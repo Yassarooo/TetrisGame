@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1061855301715",
+    "firebase_url": "https://tetris-co.firebaseio.com",
+    "project_id": "tetris-co",
+    "storage_bucket": "tetris-co.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061855301715:android:bde077c9c44f0f845536a6",
+        "android_client_info": {
+          "package_name": "com.coronadebuggers.tetris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061855301715-itku5qtto9i13jbfdjelltl1pmh5bac2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSM_8dAX-FplF306PM1_TcC5G6R7KhBZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061855301715-itku5qtto9i13jbfdjelltl1pmh5bac2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

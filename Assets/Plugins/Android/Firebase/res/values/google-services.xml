@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://tetris-co.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">1061855301715</string>
+  <string name="google_storage_bucket" translatable="false">tetris-co.appspot.com</string>
+  <string name="project_id" translatable="false">tetris-co</string>
+  <string name="google_api_key" translatable="false">AIzaSyBSM_8dAX-FplF306PM1_TcC5G6R7KhBZE</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBSM_8dAX-FplF306PM1_TcC5G6R7KhBZE</string>
+  <string name="google_app_id" translatable="false">1:1061855301715:android:bde077c9c44f0f845536a6</string>
+  <string name="default_web_client_id" translatable="false">1061855301715-itku5qtto9i13jbfdjelltl1pmh5bac2.apps.googleusercontent.com</string>
+</resources>
